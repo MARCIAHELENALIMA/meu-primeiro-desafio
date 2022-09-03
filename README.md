@@ -1,6 +1,4 @@
 # meu-primeiro-desafio
 dio-desafio-git-hub
 
-<img src="https://www.example.com/images/dinosaur.jpg">
-
-[Meu perfil](http://linkedin.com/in/marciahelenalima)
+[Meu perfil no Linkedin](http://linkedin.com/in/marciahelenalima)
